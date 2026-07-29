@@ -5,8 +5,8 @@
 class Godirb < Formula
   desc "Fast and easy-to-use directory brute-forcer written in go"
   homepage "https://github.com/MyCode83/godirb"
-  url "https://github.com/MyCode83/godirb/archive/refs/tags/v1.3.5.tar.gz"
-  sha256 "b68cb5975a15856dc025ee4981bc556c46a418d4bd5cc374e8583154150d75be"
+  url "https://github.com/MyCode83/godirb/archive/refs/tags/v1.4.0.tar.gz"
+  sha256 "851e8b8677bf94352f4628a055c1373d0bd300911c12206483f16fa2909a68dc"
   license "MIT"
 
   depends_on "go" => :build
